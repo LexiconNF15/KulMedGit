@@ -1,3 +1,6 @@
 test av fil skapad i min branch.
 
 /Lena
+
+Ändring 2016-01-08 för att test merge
+från min branch.
